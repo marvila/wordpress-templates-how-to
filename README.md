@@ -2,9 +2,11 @@
 
 Um workshop rápido sobre criação de templates WordPress.
 
-Este é um repositório *Work in Progress*
+Ele foi inicialmente elaborado para o workshop da SECOMP (Semana da Computação) da Unicamp.
 
-## Arquivos utilizados
+Este repositório ainda está *Work in Progress*, pois será atualizado com mais detalhes sobre a criação de templates WordPress.
+
+## Estrutura de diretórios
 
 * `html`
     * Aqui estão os arquivos de layout em HTML, CSS, JS utilizados como base para a criação do template para WordPress.
@@ -13,7 +15,7 @@ Este é um repositório *Work in Progress*
     * Dados de teste para preencher o banco de dados do WordPress
     * themeunittestdata.wordpress.xml (<https://github.com/WPTRT/theme-unit-test>)
 * `solution`
-    * (*em desenvolvimento*) Aqui estão os arquivos do template pronto com uma das possíveis implementações.
+    * Aqui serão colocados os arquivos do template para WordPress.
 
 ## Objetivos
 
