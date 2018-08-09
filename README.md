@@ -33,6 +33,10 @@ Como o workshop é relativamente rápido, vamos limitar o conteúdo a apenas alg
     * Adicionar a imagem destacada aos posts da home
     * Adicionar paginação numérica nas páginas de categoria
 
+## Apresentação
+
+http://bit.ly/secomp2018wp
+
 ## TODO
 
 Para quem quiser continuar os estudos e para uma futura versão deste tutorial abaixo estão alguns elementos utilizados na maioria dos sites.
